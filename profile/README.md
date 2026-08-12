@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=141210&height=140&text=CERTAINLY&fontColor=f4efe6&fontSize=64&fontAlignY=52&desc=A%20cooperative%20for%20the%20certification%20%26%20standards%20world&descColor=d9c4b6&descSize=15&descAlignY=80" width="100%" alt="Certainly" />
+# CERTAINLY
+
+### *A digital cooperative for the certification &amp; standards world*
 
 ![Est. 2025](https://img.shields.io/badge/Est.-2025-b8391a?style=flat-square)
 ![Denver, CO](https://img.shields.io/badge/Denver-CO-b8391a?style=flat-square)

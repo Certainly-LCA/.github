@@ -1,5 +1,5 @@
-# Certainly LCA
+# Certainly
 
-Organization profile and shared community-health files for **Certainly LCA** — the software & data studio behind [Certainly](https://certainly.coop)'s Life Cycle Assessment practice.
+This is the GitHub home of **Certainly** — a democratically owned cooperative of fractional professionals serving the certification & standards world. Incorporated in Colorado as a Limited Cooperative Association (LCA). Formerly the agency Fxnction.
 
-➡️ The public organization profile lives in [`profile/README.md`](profile/README.md).
+➡️ Our public organization profile lives in [`profile/README.md`](profile/README.md) — and on the web at [certainly.coop](https://certainly.coop).

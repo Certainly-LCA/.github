@@ -19,7 +19,7 @@ We're a democratically owned cooperative of fractional professionals — across 
 
 Formerly the digital agency **Fxnction**, we rebranded to Certainly in 2025 to focus entirely on the certification sector — after a decade supporting bodies like the U.S. Green Building Council, the International WELL Building Institute, and 1% for the Planet.
 
-## 📂 What lives here
+## What lives here
 
 This is where Certainly builds in the open — our [certainly.coop](https://certainly.coop) website, the tooling behind client engagements, and the cooperative's shared projects.
 
@@ -43,7 +43,7 @@ Worker-members, one vote each:
 
 Governed by our [bylaws](https://certainly.coop/bylaws). New members can [apply](https://certainly.coop/apply); anyone can [propose a project](https://certainly.coop/propose).
 
-## 📰 Open work
+## Open work
 
 - **[Dispatch](https://certainly.coop/dispatch)** — our publication on certification, credentialing, and the business of trust
 - **The fractional ops playbook** — an open framework for running operations across multiple clients

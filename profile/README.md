@@ -1,84 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b4332,100:40916c&height=210&section=header&text=Certainly%20LCA&fontSize=56&fontColor=ffffff&fontAlignY=36&desc=Life%20Cycle%20Assessment%20%C2%B7%20EPDs%20%C2%B7%20Product%20Carbon%20Footprints&descSize=18&descAlignY=58&descColor=d8f3dc" alt="Certainly LCA" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=141210&height=140&text=CERTAINLY&fontColor=f4efe6&fontSize=64&fontAlignY=52&desc=A%20cooperative%20for%20the%20certification%20%26%20standards%20world&descColor=d9c4b6&descSize=15&descAlignY=80" width="100%" alt="Certainly" />
 
-### Measuring what matters — from raw material to end of life.
-
-**Certainly&nbsp;LCA** is the software &amp; data studio behind [Certainly](https://certainly.coop)'s Life&nbsp;Cycle&nbsp;Assessment practice. We turn complex environmental data into clear, credible, standards-aligned answers — so teams can prove impact, not just claim it.
-
-<br/>
-
-![ISO 14040/14044](https://img.shields.io/badge/ISO_14040%2F14044-Life_Cycle_Assessment-1b4332?style=for-the-badge)
-![EPD](https://img.shields.io/badge/EPD-EN_15804-2d6a4f?style=for-the-badge)
-![GHG Protocol](https://img.shields.io/badge/GHG_Protocol-Product_Standard-40916c?style=for-the-badge)
-![PCF](https://img.shields.io/badge/Product_Carbon_Footprint-ISO_14067-52b788?style=for-the-badge)
+![Est. 2025](https://img.shields.io/badge/Est.-2025-b8391a?style=flat-square)
+![Denver, CO](https://img.shields.io/badge/Denver-CO-b8391a?style=flat-square)
+![Colorado LCA](https://img.shields.io/badge/Colorado-Limited_Cooperative_Association-3d5a3a?style=flat-square)
+![One member, one vote](https://img.shields.io/badge/one_member-one_vote-141210?style=flat-square)
 
 </div>
 
 ---
 
-## 🌍 Who we are
+## Certainly is a cooperative.
 
-> Certainly LCA exists to make life cycle assessment **faster, more transparent, and more trustworthy**. We pair sustainability expertise with modern software so that every footprint, EPD, and impact claim stands up to scrutiny — from practitioners to procurement teams to third-party reviewers.
+We're a democratically owned cooperative of fractional professionals — across design, marketing, operations, and technology — incorporated in Colorado as a **Limited Cooperative Association (LCA)**. We help **certification and standards organizations** turn trust into traction.
 
-We work at the intersection of **environmental science, data engineering, and product design** — building the internal tools, datasets, and calculators that power Certainly's LCA consulting engagements.
+Formerly the digital agency **Fxnction**, we rebranded to Certainly in 2025 to focus entirely on the certification sector — after a decade supporting bodies like the U.S. Green Building Council, the International WELL Building Institute, and 1% for the Planet.
 
-## 🧭 What we're building
+## 📂 What lives here
 
-| Focus area | What it does |
+This is where Certainly builds in the open — our [certainly.coop](https://certainly.coop) website, the tooling behind client engagements, and the cooperative's shared projects.
+
+## What we do
+
+- **Digital standard authoring** — turning static standards into living, digital-first documents
+- **Membership & CRM optimization** — the systems that keep credentialing programs running
+- **Participant onboarding** — smoother paths from applicant to credential-holder
+- **Marketing automation & content** — communication worth reading
+- **Design & development** — full-service websites, brand, and software
+
+## The cooperative
+
+Worker-members, one vote each:
+
+| Member | Focus |
 | :-- | :-- |
-| 🗮 **LCA modeling toolkit** | Cradle-to-grave and cradle-to-gate models aligned to ISO&nbsp;14040/14044, with reusable process libraries. |
-| 📄 **EPD generation** | Turn verified LCA results into EN&nbsp;15804 / ISO&nbsp;21930 Environmental Product Declarations, review-ready. |
-| 👣 **Carbon footprint engine** | Product (ISO&nbsp;14067) and organizational (GHG&nbsp;Protocol) footprints with auditable calculation trails. |
-| 🔎 **Hotspot &amp; scenario analysis** | Find the drivers of impact and test design, sourcing, and end-of-life alternatives. |
-| 🗂️ **Emission-factor data layer** | A curated, versioned factor library with full provenance and units handling. |
-| 📊 **Reporting &amp; dashboards** | Stakeholder-ready visuals for CSRD, customer requests, and eco-label submissions. |
+| **Shane Gring** | Operations strategy & systems |
+| **Christopher Pirchel** | Marketing, copywriting & content |
+| **Nicole Sparks** | Design & visual systems |
 
-## 🛠️ Services we support
+Governed by our [bylaws](https://certainly.coop/bylaws). New members can [apply](https://certainly.coop/apply); anyone can [propose a project](https://certainly.coop/propose).
 
-- **Life Cycle Assessment** — goal &amp; scope, LCI data collection, LCIA, interpretation (ISO 14040 / 14044)
-- **Environmental Product Declarations (EPDs)** — EN 15804 / ISO 14025, PCR alignment, verification support
-- **Product &amp; Corporate Carbon Footprints** — ISO 14067 and GHG Protocol, Scope 1–3
-- **Eco-label &amp; certification support** — evidence packages, data validation, documentation
-- **Design-for-environment** — hotspot analysis, material trade-offs, circularity scenarios
+## 📰 Open work
 
-## 🌱 How we work
+- **[Dispatch](https://certainly.coop/dispatch)** — our publication on certification, credentialing, and the business of trust
+- **The fractional ops playbook** — an open framework for running operations across multiple clients
+- **A common language for scope** — a practitioner-built glossary of fractional-work terms, published CC-BY
 
-- **Standards first.** Every model traces to a recognized methodology and a documented data source.
-- **Auditable by default.** Assumptions, factors, and versions are transparent and reproducible.
-- **Practitioner-friendly.** Tools are built with the analysts and reviewers who use them every day.
-- **Open where it helps.** We favor open data formats and interoperable, portable results.
+## Find us
 
-## 💻 Tech we build with
+**[certainly.coop](https://certainly.coop)** · [Dispatch](https://certainly.coop/dispatch) · [Partner with us](https://certainly.coop/partner) · Denver, CO
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-## 📐 Standards &amp; frameworks we align to
-
-`ISO 14040` · `ISO 14044` · `ISO 14025` · `ISO 21930` · `ISO 14067` · `EN 15804` · `GHG Protocol` · `PEF` · `CSRD`
-
-## 📫 Get in touch
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/certainly.coop-1b4332?style=for-the-badge&logo=googlechrome&logoColor=white)](https://certainly.coop)
-[![Email](https://img.shields.io/badge/Contact_us-2d6a4f?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:hello@certainly.coop)
-
-*Have a product or process you need to assess? We'd love to help you measure it — certainly.*
-
-</div>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:40916c,100:1b4332&height=120&section=footer" alt="" width="100%" />
-
+<sub>© 2026 Certainly Cooperative · certainly.coop · Set in Geist &amp; Geist Pixel · Denver, CO</sub>
 </div>
